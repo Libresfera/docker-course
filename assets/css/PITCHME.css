@@ -1,0 +1,6 @@
+.controls,
+.gp-menu,
+.slide-number,
+#title-footer {
+  display: none !important;
+}
